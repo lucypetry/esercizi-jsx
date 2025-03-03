@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      <h1>Click the button to see the time</h1>
+      <h1>Click the button to see the time!</h1>
       <AlertClock onClick={handleClick} />
     </div>
   );
