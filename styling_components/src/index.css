@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.welcome {
+  background-color: #af4c87;
+  border: 2px solid #88388e;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
